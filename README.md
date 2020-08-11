@@ -1,3 +1,5 @@
+<h2 align="center">VueJS Weather App</h2>
+
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
@@ -29,9 +31,6 @@ yarn install
 ```
 yarn serve
 ```
-
-<h2 align="center">VueJS Weather App</h2>
-
 ___
 
 ## :rocket: Tecnologias Utilizadas 
